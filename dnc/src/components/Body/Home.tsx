@@ -5,6 +5,7 @@ function Home() {
     <div>
       <h1>Home Page</h1>
       <p>Welcome to the Home Page of Dharma and Company!</p>
+      <p>Have a Nice Day</p>
     </div>
   );
 }
